@@ -1,0 +1,570 @@
+[
+
+    {
+        "question_id": 0,
+        "isActive": true,
+        "question": "Washing soda is the common name for",
+        "difficulty": "E",
+        "options":
+            {
+                "option 1": "Sodium carbonate",
+               
+                "option 2": "Calcium bicarbonate",
+                
+           
+                "option 3": "Sodium bicarbonate",
+                
+           
+                "option 4": "Calcium carbonate"
+               
+            },
+        "isCorrect": "option 3"
+        
+    },
+    {
+        "question_id": 1,
+        "isActive": true,
+        "question": "Which of the gas is not known as green house gas?",
+        "difficulty": "E",
+        "options": 
+            {
+                "option 1": "Methane",
+               
+          
+                "option 2": "Nitrous oxide",
+               
+         
+                "option 3": "Carbon dioxide",
+        
+                "option 4": "Hydrogen"
+            
+            },
+        "isCorrect": "option 4"
+        
+
+    },
+    {
+        "question_id": 2,
+        "isActive": true,
+        "question": "Under Akbar, the Mir Bakshi was required to look after",
+        "difficulty": "E",
+        "options": 
+            {
+                
+                "option 1": "military affairs",
+               
+           
+                "option 2": "the state treasury",
+               
+           
+                "option 3": "the royal household",
+               
+         
+                "option 4": "the land revenue system"
+               
+            },
+            "isCorrect": "option 1"
+        
+    },
+    {
+        "question_id": 3,
+        "isActive": true,
+        "question": "The treaty of Srirangapatna was signed between Tipu Sultan and",
+        "difficulty": "E",
+        "options": 
+            {
+               
+                "option 1": "Robert Clive",
+               
+           
+                "option 2": "Cornwallis",
+           
+                "option 3": "Dalhousie",
+         
+                "option 4": "Warren Hastings"
+               
+            },
+            "isCorrect": "option 2"
+    },
+    {
+        "question_id": 4,
+        "isActive": true,
+        "question": "The Vedic deity Indra is the God of",
+        "difficulty": "E",
+        "options": 
+            {
+                "option 1": "Wind",
+          
+                "option 2": "Eternity",
+           
+                "option 3": "Rain and Thunder",
+         
+                "option 4": "Fire"
+               
+            },
+            "isCorrect": "option 3"
+    },
+    {
+        "question_id": 5,
+        "isActive": true,
+        "question": "The Parliament of India cannot be regarded as a sovereign body because",
+        "difficulty": "E",
+        "options": 
+            {
+            
+                "option 1": "it can legislate only on subjects entrusted to the Centre by the Constitution",
+          
+                "option 2": "it has to operate within the limits prescribed by the Constitution",
+           
+                "option 3": "the Supreme Court can declare laws passed by parliament as unconstitutional if they contravene the provisions of the Constitution",
+         
+                "option 4": "All of the above"
+             
+            },
+            "isCorrect": "option 4"
+    },
+    {
+        "question_id": 6,
+        "isActive": true,
+        "question": "The minimum age to qualify for election to the Lok Sabha is",
+        "difficulty": "E",
+        "options":
+            {
+               
+                "option 1": "25 years",
+            
+                "option 2": "21 years",
+            
+                "option 3": "35 years",
+               
+           
+                "option 4": "18 years"
+            },
+            "isCorrect": "option 1"
+    },
+    {
+        "question_id": 7,
+        "isActive": true,
+        "question": "Most modern TV's draw power even if turned off. The circuit the power is used in does what function?",
+        "difficulty": "E",
+        "options":
+            {
+                "option 1": "Sound",
+          
+                "option 2": "Remote control",
+           
+                "option 3": "Color balance",
+          
+                "option 4": "High voltage"
+               
+            },
+        "isCorrect": "option 3"
+    },
+    {
+        "question_id": 8,
+        "isActive": true,
+        "question": "The purpose of choke in tube light is ?",
+        "difficulty": "E",
+        "options": 
+            {
+             
+                "option 1": "To decrease the current",
+          
+                "option 2": "To increase the current",
+           
+                "option 3": "To decrease the voltage momentarily",
+            
+                "option 4": "To increase the voltage momentarily"
+            },
+            "isCorrect": "option 4"
+    },
+    {
+        "question_id": 9,
+        "isActive": true,
+        "question": "Sometimes computers and cache registers in a foodmart are connected to a UPS system. What does UPS mean?",
+        "difficulty": "E",
+        "options": 
+            {
+                "option 1": "United Parcel Service",
+            
+                "option 2": "Uninterruptable Power Supply",
+            
+            
+                "option 3": "Uniform Product Support",
+              
+                "option 4": "Under Paneling Storage"
+               
+            },
+        "isCorrect": "option 4"
+    },
+    {
+        "question_id": 10,
+        "isActive": true,
+        "question": "Who co-founded Hotmail in 1996 and then sold the company to Microsoft?",
+        "difficulty": "E",
+        "options":
+            {
+               
+                "option 1": "Shawn Fanning",
+           
+                "option 2": "Ada Byron Lovelace",
+            
+                "option 3": "Sabeer Bhatia",
+              
+            
+                "option 4": "Ray Tomlinson"
+               
+            },
+            "isCorrect": "option 4"
+    },
+    {
+        "question_id": 11,
+        "isActive": true,
+        "question": "Which consists of two plates separated by a dielectric and can store a charge?",
+        "difficulty": "E",
+        "options": 
+            {
+                "option 1": "Inductor",
+           
+                "option 2": "Capacitor",
+          
+                "option 3": "Transistor",
+           
+                "option 4": "Resistor"
+               
+            },
+            "isCorrect": "option 2"
+    },
+    {
+        "question_id": 12,
+        "isActive": true,
+        "question": "What does FM in FM Radio mean?",
+        "difficulty": "E",
+        "options": 
+            {
+                
+                "option 1": "Fundamental Marconi",
+            
+                "option 2": "Fransisco Marconi",
+             
+                "option 3": "Frequency Modulation",
+               
+                "option 4": "Frequency Manipulation"
+               
+            },
+            "isCorrect": "option 3"
+    },
+    {
+        "question_id": 13,
+        "isActive": true,
+        "question": "Ozone hole refers to",
+        "difficulty": "E",
+        "options": 
+            {
+                "option 1": "hole in ozone layer",
+              
+                "option 2": "decrease in the ozone layer in troposphere",
+               
+                "option 3": "decrease in thickness of ozone layer in stratosphere",
+                
+                "option 4": "increase in the thickness of ozone layer in troposphere"
+               
+            },
+            "isCorrect": "option 3"
+    },
+    {
+        "question_id": 14,
+        "isActive": true,
+        "question": "Which of the following is NOT written by Munshi Premchand?",
+        "difficulty": "E",
+        "options": 
+            {
+                "option 1": "Gaban",
+             
+                "option 2": "Godan",
+               
+                "option 3": "Guide",
+               
+                "option 4": "Manasorovar"
+               
+            },
+            "isCorrect": "option 3"
+    },
+    {
+        "question_id": 15,
+        "isActive": true,
+        "question": "Which of the following is a non metal that remains liquid at room temperature?",
+        "difficulty": "M",
+        "options":
+            {
+               
+                "option 1": "Phosphorous",
+               
+                "option 2": "Bromine",
+             
+                "option 3": "Chlorine",
+           
+                "option 4": "Helium"
+            
+            },
+            "isCorrect": "option 2"
+    },
+    {
+        "question_id": 16,
+        "isActive": true,
+        "question": "Which of the following is used as a moderator in nuclear reactor?",
+        "difficulty": "M",
+        "options": 
+            {
+                "option 1": "Thorium",
+             
+                "option 2": "Graphite",
+           
+                "option 3": "Radium",
+            
+                "option 4": "Ordinary water"
+               
+            },
+            "isCorrect": "option 1"
+    },
+    {
+        "question_id": 17,
+        "isActive": true,
+        "question": "To which professions earlier leaders who struggled for freedom of India mainly belonged?",
+        "difficulty": "M",
+        "options":
+            {
+                "option 1": "Lawyers",
+          
+                "option 2": "Teachers",
+             
+                "option 3": "Journalists",
+               
+            
+                "option 4": "All of the above"
+              
+            },
+            "isCorrect": "option 4"
+    },
+    {
+        "question_id": 18,
+        "isActive": true,
+        "question": "The Vijayanagara king who employed skilled archers of the Turkish clan and raised the fighting capacity of his bowmen was",
+        "difficulty": "M",
+        "options": 
+            {
+                "option 1": "Bukka I",
+           
+                "option 2": "Devaraya I",
+              
+                "option 3": "Krishnadevaraya",
+            
+                "option 4": "Ramaraya"
+               
+            },
+            "isCorrect": "option 2"
+    },
+    {
+        "question_id": 19,
+        "isActive": true,
+        "question": "The Parliament exercises control over council of ministers, the real executive, in several ways. Which one of the following has been wrongly listed as a method of control over executive?",
+        "difficulty": "M",
+        "options": 
+            {
+                "option 1": "Questions",
+           
+                "option 2": "Supplementary questions",
+           
+                "option 3": "Adjournment motions",
+         
+                "option 4": "None of the above"
+               
+            },
+            "isCorrect": "option 4"
+    },
+    {
+        "question_id": 20,
+        "isActive": true,
+        "question": "Who created Pretty Good Privacy (PGP)?",
+        "difficulty": "M",
+        "options": 
+            {
+                "option 1": "Phil Zimmermann",
+           
+                "option 2": "Tim Berners-Lee",
+             
+                "option 3": "Marc Andreessen",
+            
+                "option 4": "Ken Thompson"
+               
+            },
+            "isCorrect": "option 1"
+    },
+    {
+        "question_id": 21,
+        "isActive": true,
+        "question": "Which of the following Akademis is responsible for fostering the development of dance, drama and music in India?",
+        "difficulty": "M",
+        "options": 
+            {
+                "option 1": "National School of Drama",
+           
+                "option 2": "Sangeet Akademi",
+            
+                "option 3": "Sahitya Akademi",
+           
+                "option 4": "Lalit Kala Akademi"
+               
+            },
+            "isCorrect": "option 2"
+    },
+    {
+        "question_id": 22,
+        "isActive": true,
+        "question": "Osmosis is the flow of solution from higher concentration to a solution of lower concentration through a semi permeable membrane. What is incorrect in this statement?",
+        "difficulty": "M",
+        "options": 
+            {
+                "option 1": "Exact concentration of solution is not given",
+            
+                "option 2": "Character of semi permeable membrane is not given",
+              
+                "option 3": "The flow of solution is not possible through semi permeable membrane",
+             
+                "option 4": "All are incorrect"
+               
+            },
+            "isCorrect": "option 3"
+    },
+    {
+        "question_id": 23,
+        "isActive": true,
+        "question": "Most common disease of poultry in India is",
+        "difficulty": "M",
+        "options": 
+            {
+                "option 1": "fowl pox",
+              
+                "option 2": "tick fever",
+              
+                "option 3": "ranikhet",
+              
+                "option 4": "coryza"
+               
+            },
+            "isCorrect": "option 3"
+    },
+    {
+        "question_id": 24,
+        "isActive": true,
+        "question": "Who is the first Indian woman to win an Asian Games gold in 400m run?",
+        "difficulty": "M",
+        "options": 
+            {
+                "option 1": "M.L.Valsamma",
+            
+                "option 2": "P.T.Usha",
+              
+                "option 3": "Kamaljit Sandhu",
+            
+                "option 4": "K.Malleshwari"
+               
+            },
+            "isCorrect": "option 3"
+    },
+    {
+        "question_id": 25,
+        "isActive": true,
+        "question": "Under an agreement with which of the following countries did Subhas Chandra Bose organize the Indian soldiers, taken as prisoners by the Axis Powers, into the Azad Hind Fauj?",
+        "difficulty": "H",
+        "options": 
+            {
+                "option 1": "China",
+            
+                "option 2": "Germany",
+             
+                "option 3": "Italy",
+            
+                "option 4": "Japan"
+              
+            },
+            "isCorrect": "option 4"
+    },
+    {
+        "question_id": 26,
+        "isActive": true,
+        "question": "The title given by the British Government to Mahatma Gandhi which he surrendered during the non-cooperation movement was",
+        "difficulty": "H",
+        "options": 
+            {
+                "option 1": "Hind Kesari",
+              
+                "option 2": "Kaiser-e-Hind",
+              
+                "option 3": "Rai Bahadur",
+             
+                "option 4": "Rt. Honorable"
+               
+            },
+            "isCorrect": "option 2"
+    },
+    {
+        "question_id": 27,
+        "isActive": true,
+        "question": "To evolve a peaceful settlement of the conflict between India and China, which of the following non-aligned Afro-Asian nations participated in a conference held in December 1962?",
+        "difficulty": "M",
+        "options": 
+            {
+                "option 1": "Burma (now Myanmar), Combodia, Indonesia and UAR",
+            
+                "option 2": "Burma, Sri Lanka, Combodia and Indonesia",
+              
+                "option 3": "Burma, Indonesia, Ghana and Sri Lanka",
+              
+                "option 4": "All of the above"
+              
+            },
+            "isCorrect": "option 4"
+    },
+    {
+        "question_id": 28,
+        "isActive": true,
+        "question": "The president demand for further reforms, attended with the dislocation caused by the non-cooperation movement, led the British government to appoint a Statutory Commission in 1927. This commission was headed by",
+        "difficulty": "M",
+        "options": 
+            {
+                "option 1": "Sri John Simon",
+             
+                "option 2": "Lord Chelmsford",
+              
+                "option 3": "Lord Minto",
+            
+                "option 4": "E.S. Montague"
+               
+            },
+            "isCorrect": "option 1"
+    },
+    {
+        "question_id": 29,
+        "isActive": true,
+        "question": "Which of the following place is famous for its gigantic rock-cut statue of Buddha?",
+        "difficulty": "H",
+        "options": 
+            {
+               
+                "option 1": "Bamiyan",
+               
+           
+                "option 2": "Borobudur",
+               
+           
+                "option 3": "Anuradhapuram",
+               
+          
+                "option 4": "Angor Vat"
+               
+            },
+            "isCorrect": "option 1"
+    }
+ ]
+ 
